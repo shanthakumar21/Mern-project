@@ -1,2 +1,4 @@
 To create a react app using vite 
 npm create vite@latest client -- -- template react
+
+For vite, .jsx extension is needed. everything else is exactly like react
